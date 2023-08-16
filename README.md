@@ -24,6 +24,10 @@ Research Question:
 
 Ini adalah dataset serta notebook yang digunakan untuk menjawab pertanyaan tersebut, silahkan dapat digunakan. 
 
+
+Check hasil analysis disini: 
+https://medium.com/@kusbi/sentiment-analyst-ruu-pks-pelecehan-kekerasan-seksual-94f40420fb48
+
 Semoga bermanfaat.
 
 Thanks!!
