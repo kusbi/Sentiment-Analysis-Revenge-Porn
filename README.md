@@ -15,7 +15,7 @@ Sumber media yang dilakukan analisis sebagai berikut:
 5. @panfeglangeksis
 6. @info.banten
 
-Data yang dihasilkan sebanyak "2,743 komentar instagram" dari media sosial yang dilakukan analisis. 
+Data yang dihasilkan sebanyak **2,743 komentar** instagram dari media sosial yang dilakukan analisis. 
 
 Research Question:
 1. Percakapan apa yang paling banyak di bicarakan?
